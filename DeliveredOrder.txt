@@ -1,0 +1,39 @@
+0123456789
+Vermicelli with Prosciutto and Parmesan
+1
+23.5
+23.5
+02/07/2022
+14:00:47
+10.0
+123.9
+12, Road Ten Street, 24
+11100
+Balik Pulau
+DEO8144
+0198765432
+Spaghetti Carbonara
+1
+44.9
+44.9
+02/07/2022
+3 : 54 PM
+10.0
+54.9
+12, Burma Road Residence, 24A
+12700
+Balik Pulau
+DEO8290
+0123456789
+Mocha Cashew Butter
+2
+11.0
+22.0
+02/07/2022
+14:32:28
+10.0
+32.0
+23A, Durian Road Street, 1HW
+14000
+Balik Pulau
+DEO9473
